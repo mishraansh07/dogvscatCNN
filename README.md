@@ -10,7 +10,7 @@ A deep learning image classifier that distinguishes between cats and dogs using 
 
 ### Training Performance
 
-![Training Results](C:\Users\anshm\OneDrive\Desktop\Git clone\Trainning Visuals.png)
+![Training Results](https://github.com/mishraansh07/dogvscatCNN/blob/main/Trainning%20Visuals.png)
 
 **Phase 1 - Classifier Training (10 epochs):**
 - Starting accuracy: 75.86% → Final: 96.68%
