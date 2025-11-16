@@ -1,4 +1,4 @@
-# 🐾 Cat vs. Dog Image Classification with Transfer Learning
+# Cat vs. Dog Image Classification with Transfer Learning
 
 A **TensorFlow/Keras** project that demonstrates high-accuracy binary image classification (**Cats vs. Dogs**) using **Transfer Learning** and **Fine-Tuning** with the **MobileNetV2** model.
 
@@ -6,7 +6,7 @@ This implementation loads the "Cats and Dogs" dataset, builds a robust classifie
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **Data Loading:** Efficiently loads and preprocesses the dataset using `tf.keras.utils.image_dataset_from_directory`.  
 - **Data Augmentation:** Real-time augmentation (`RandomFlip`, `RandomRotation`, `RandomZoom`) to prevent overfitting and improve model generalization.  
@@ -19,7 +19,7 @@ This implementation loads the "Cats and Dogs" dataset, builds a robust classifie
 
 ---
 
-## 🧠 The Model — Two-Phase Training Strategy
+## The Model — Two-Phase Training Strategy
 
 ### **Model Architecture**
 Built using the **Keras Functional API:**
