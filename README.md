@@ -154,7 +154,7 @@ This project demonstrates:
 - Data augmentation techniques
 - Binary classification with CNNs
 - TensorFlow/Keras best practices
-- Model evaluation and visualization
+- Model evaluation, visualization
 
 ## License
 
